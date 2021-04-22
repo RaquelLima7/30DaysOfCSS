@@ -1,6 +1,6 @@
 <h2 align="center"> 30DaysOfCSS 🖌🚀 <h2>
 
-<hr>
+<br>
 
 ## 📝 About 
 30 days of CSS is a project that aims to improve coding skills by making mini daily projects using HTML5 and CSS.
@@ -31,4 +31,4 @@ The 30 days of CSS challenge aims to improve learning about html and css (withou
 * Day 08 - Animated screen
 * Day 09 - Animation with hover images
 * Day 10 - Animated Checkbox Neon effect
-* 
+  
