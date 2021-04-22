@@ -1,7 +1,6 @@
 <h2 align="center"> 30DaysOfCSS 🖌🚀 <h2>
 
 
-
 ## 📝 About 
 30 days of CSS is a project that aims to improve coding skills by making mini daily projects using HTML5 and CSS.
 
