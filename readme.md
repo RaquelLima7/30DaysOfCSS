@@ -31,4 +31,3 @@ The 30 days of CSS challenge aims to improve learning about html and css (withou
 * Day 08 - Animated screen
 * Day 09 - Animation with hover images
 * Day 10 - Animated Checkbox Neon effect
-* 
