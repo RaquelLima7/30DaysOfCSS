@@ -34,5 +34,5 @@ The 30 days of CSS challenge aims to improve learning about html and css (withou
 * Day 12 - Typewriter
 * Day 13 - Text color change when entering another div
 * Day 14 - Rotating card animation
-* Day 15 - Lightning text
+* Day 15 - Shiny text
   
