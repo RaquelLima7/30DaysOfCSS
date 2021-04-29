@@ -35,4 +35,10 @@ The 30 days of CSS challenge aims to improve learning about html and css (withou
 * Day 13 - Text color change when entering another div
 * Day 14 - Rotating card animation
 * Day 15 - Shiny text
-  
+* Day 16 - Lightsaber
+* Day 17 - Animated menu
+* Day 18 - Smoky Text
+* Day 19 - Background that changes color
+* Day 20 - Fill effect when hovering
+* Day 21 - Animated text background with stars
+* Day 22 - Colorful animation
