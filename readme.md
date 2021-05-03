@@ -49,7 +49,7 @@ The 30 days of CSS challenge aims to improve learning about html and css (withou
 ## Day 01 - Animation using search box <a name="id01"></a>
 <img src="./Challenges/Day_01/day01.gif" alt="day01">
 
-- [My Code]()
-- [Post LinkedIn]() 
+- [My Code](https://github.com/RaquelLima7/30DaysOfCSS/tree/main/Challenges/Day_01)
+- [Post LinkedIn](https://www.linkedin.com/posts/raquellima7_30daysofcss-30diasdecss-frontend-activity-6794956990545235968-31Ht) 
 
 <br>
