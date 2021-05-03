@@ -13,32 +13,43 @@ The 30 days of CSS challenge aims to improve learning about html and css (withou
 
 ## 📣 Rules 
 * Make one project a day;
-* Share your progress on social media using the hashtags # 30DaysOfCSS and #30diasDeCSS;
+* Share your progress on social media using the hashtags #30DaysOfCSS and #30diasDeCSS;
 * The project must be completed by 11:59 pm.
 
 <br>
 
 ## 🗒 Challenges 
 
-* Day 01 - Animation using search box
-* Day 02 - Animated loader
-* Day 03 - Layered social media icon
-* Day 04 - Color changing checkbox
-* Day 05 - Floating text
-* Day 06 - Heart beating
-* Day 07 - Shiny button
-* Day 08 - Animated screen
-* Day 09 - Animation with hover images
-* Day 10 - Animated Checkbox Neon effect
-* Day 11 - Pulsing effect
-* Day 12 - Typewriter
-* Day 13 - Text color change when entering another div
-* Day 14 - Rotating card animation
-* Day 15 - Shiny text
-* Day 16 - Lightsaber
-* Day 17 - Animated menu
-* Day 18 - Smoky Text
-* Day 19 - Background that changes color
-* Day 20 - Fill effect when hovering
-* Day 21 - Animated text background with stars
-* Day 22 - Colorful animation
+* [Day 01 - Animation using search box](#id01)
+* [Day 02 - Animated loader](#id02)
+* [Day 03 - Layered social media icon](#id03)
+* [Day 04 - Color changing checkbox](#id04)
+* [Day 05 - Floating text](#id05)
+* [Day 06 - Heart beating](#id06)
+* [Day 07 - Shiny button](#id07)
+* [Day 08 - Animated screen](#id08)
+* [Day 09 - Animation with hover images](#id09)
+* [Day 10 - Animated Checkbox Neon effect](#id10)
+* [Day 11 - Pulsing effect](#id11)
+* [Day 12 - Typewriter](#id12)
+* [Day 13 - Text color change when entering another div](#id13)
+* [Day 14 - Rotating card animation](#id14)
+* [Day 15 - Shiny text](#id15)
+* [Day 16 - Lightsaber](#id16)
+* [Day 17 - Animated menu](#id17)
+* [Day 18 - Smoky Text](#id18)
+* [Day 19 - Background that changes color](#id19)
+* [Day 20 - Fill effect when hovering](#id20)
+* [Day 21 - Animated text background with stars](#id21)
+* [Day 22 - Colorful animation](#id22)
+* [Day 23 - Animation with text](#id23)
+
+<br>
+
+## Day 01 - Animation using search box <a name="id01"></a>
+<img src="./Challenges/Day_01/day01.gif" alt="day01">
+
+- [My Code]()
+- [Post LinkedIn]() 
+
+<br>
