@@ -1,0 +1,43 @@
+body {
+    background-color: #E67BAB;
+    
+}
+
+.center {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.ring {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    box-shadow: 0 5px 0 white;
+    background: transparent;
+    animation: animate 1s linear infinite;
+}
+
+.loading {
+    background-color: transparent;
+    box-shadow: 0 0 5px rgba(224, 220, 220, 0.253);
+    font-family: 'Ubuntu Mono', monospace;
+    color: white;
+    font-size: 1.5em;
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    position: absolute;
+    text-align: center;
+    line-height: 200px;
+}
+
+@keyframes animate {
+    0% {
+        transform: rotate(0deg);
+    }
+    100% {
+        transform: rotate(360deg);
+    }
+}

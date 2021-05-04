@@ -53,3 +53,11 @@ The 30 days of CSS challenge aims to improve learning about html and css (withou
 - [Post LinkedIn](https://www.linkedin.com/posts/raquellima7_30daysofcss-30diasdecss-frontend-activity-6794956990545235968-31Ht) 
 
 <br>
+
+## Day 02 - Animated loader <a name="id02"></a>
+<img src="./Challenges/Day_02/day02.gif" alt="day02">
+
+- [My Code]()
+- [Post LinkedIn]() 
+
+<br>
