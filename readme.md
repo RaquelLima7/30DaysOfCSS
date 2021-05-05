@@ -65,7 +65,7 @@ The 30 days of CSS challenge aims to improve learning about html and css (withou
 ## Day 03 - Layered social media icon <a name="id03"></a>
 <img src="./Challenges/Day_03/day03.gif" alt="day03">
 
-- [My Code]()
-- [Post LinkedIn]() 
+- [My Code](https://github.com/RaquelLima7/30DaysOfCSS/tree/main/Challenges/Day_03)
+- [Post LinkedIn](https://www.linkedin.com/posts/raquellima7_30daysofcss-30diasdecss-frontend-activity-6795670904497082368-x8Ye) 
 
 <br>
