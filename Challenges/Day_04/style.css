@@ -1,0 +1,63 @@
+body{
+  margin: 0;
+  padding: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  background-color:whitesmoke;
+}
+
+input[type="checkbox"]{
+  display: none;
+}
+
+.check{
+  position: relative;
+  display: block;
+  width: 100px;
+  height: 60px;
+  background-color:#020B29;
+  cursor: pointer;
+  border-radius: 50px;
+  overflow: hidden;
+  transition: ease-in 0.5s;
+}
+
+input[type="checkbox"]:checked ~ .check{
+  background: whitesmoke;
+  box-shadow: 0 0 0 1200px #020B29;
+}
+
+input[type="checkbox"]:checked ~ .check:before{
+  transform: translateX(-40px);
+}
+
+.check:before{
+  content: '';
+  position: absolute;
+  top: 15px;
+  left: 10px;
+  background-color: whitesmoke;
+  width: 30px;
+  height: 30px;
+  border-radius: 50%;
+  transition: 0.5s;
+}
+
+input[type="checkbox"]:checked ~ .check:after{
+  transform: translateX(0px);
+}
+
+.check:after{
+  content: '';
+  position: absolute;
+  top: 15px;
+  left: 10px;
+  background-color: #020B29;
+  width: 30px;
+  height: 30px;
+  border-radius: 50%;
+  transition: 0.5s;
+  transform:translateX(50px);
+}

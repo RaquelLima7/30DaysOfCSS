@@ -69,3 +69,11 @@ The 30 days of CSS challenge aims to improve learning about html and css (withou
 - [Post LinkedIn](https://www.linkedin.com/posts/raquellima7_30daysofcss-30diasdecss-frontend-activity-6795670904497082368-x8Ye) 
 
 <br>
+
+## Day 04 - Color changing checkbox <a name="id04"></a>
+<img src="./Challenges/Day_04/day04.gif" alt="day04">
+
+- [My Code]()
+- [Post LinkedIn]() 
+
+<br>
