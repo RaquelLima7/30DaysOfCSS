@@ -1,0 +1,24 @@
+body {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color:pink;
+}
+
+h1 {
+    color:#101E53;
+    font-family: 'Pacifico', cursive;
+    text-align: center;
+    font-size: 70px;
+    text-shadow: 0 4px 0 whitesmoke,
+                 0 20px 5px rgba(7, 6, 6, 0.1);
+    animation: float 3s linear infinite;
+    animation-direction:alternate;
+}
+
+@keyframes float {
+    from {transform: rotate(20deg);}
+
+    to {transform: rotate(-20deg);}
+}

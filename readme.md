@@ -77,3 +77,11 @@ The 30 days of CSS challenge aims to improve learning about html and css (withou
 - [Post LinkedIn](https://www.linkedin.com/posts/raquellima7_30daysofcss-30diasdecss-frontend-activity-6796052162389573633-2p3x) 
 
 <br>
+
+## Day 05 - Floating text <a name="id05"></a>
+<img src="./Challenges/Day_05/day05.gif" alt="day05">
+
+- [My Code]()
+- [Post LinkedIn]() 
+
+<br>
