@@ -89,7 +89,7 @@ The 30 days of CSS challenge aims to improve learning about html and css (withou
 ## Day 06 - Heart beating <a name="id06"></a>
 <img src="./Challenges/Day_06/day06.gif" alt="day06">
 
-- [My Code]()
-- [Post LinkedIn]() 
+- [My Code](https://github.com/RaquelLima7/30DaysOfCSS/tree/main/Challenges/Day_06)
+- [Post LinkedIn](https://www.linkedin.com/posts/raquellima7_30daysofcss-30diasdecss-frontend-activity-6796781476336738304-JCCc) 
 
 <br>
