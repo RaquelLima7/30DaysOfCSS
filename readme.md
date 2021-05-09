@@ -97,7 +97,7 @@ The 30 days of CSS challenge aims to improve learning about html and css (withou
 ## Day 07 - Shiny button <a name="id07"></a>
 <img src="./Challenges/Day_07/day07.gif" alt="day07">
 
-- [My Code]()
-- [Post LinkedIn]() 
+- [My Code](https://github.com/RaquelLima7/30DaysOfCSS/tree/main/Challenges/Day_07)
+- [Post LinkedIn](https://www.linkedin.com/posts/raquellima7_30daysofcss-30diasdecss-frontend-activity-6797171324776185856-fF9c) 
 
 <br>
