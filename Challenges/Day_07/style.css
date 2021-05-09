@@ -1,0 +1,56 @@
+body {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #113422;
+}
+
+.button {
+  position: relative;
+  min-width: 200px;
+  margin: 1em;
+  padding: 0.3em;
+  background: linear-gradient(to right, #316F3D, #4EB071);
+  border: 0;
+  cursor: pointer;
+  border-radius: 50px;
+}
+
+.button span{
+  position: relative;
+  z-index: 3;
+  display: block;
+  padding: 1.5em;
+  font-size: 15px;
+  color: white;
+  font-weight: bolder;
+  background-color: #487027;
+  border-radius: 10px;
+}
+
+.button::before, 
+.button::after{
+  content: '';
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  background: linear-gradient(to right,  #316F3D, #4EB071);
+  border-radius: 20px;
+  transition: all .3s ease-in-out;
+}
+
+.button:hover::before{
+  filter: blur(2px);
+}
+
+.button:hover::after{
+  filter: blur(30px);
+}
+
+.button:hover{
+  animation: hue 5s linear infinite;
+}
+
