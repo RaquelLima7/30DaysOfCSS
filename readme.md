@@ -105,7 +105,7 @@ The 30 days of CSS challenge aims to improve learning about html and css (withou
 ## Day 08 - Animated screen <a name="id08"></a>
 <img src="./Challenges/Day_08/day08.gif" alt="day08">
 
-- [My Code]()
-- [Post LinkedIn]() 
+- [My Code](https://github.com/RaquelLima7/30DaysOfCSS/tree/main/Challenges/Day_08)
+- [Post LinkedIn](https://www.linkedin.com/posts/raquellima7_30daysofcss-30diasdecss-frontend-activity-6797502442012512256-rpiM) 
 
 <br>
