@@ -1,0 +1,63 @@
+body{
+  background-color:pink;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.card{
+  background-color: #38BEDC;
+  display: flex;
+  position: relative;
+  overflow: hidden;
+}
+
+.card a{
+  width: 100px;
+  height: 80px;
+  line-height: 80px;
+  text-align: center;
+  color: #9B314D;
+  font-size: 40px;
+  transition: .3s linear;
+}
+
+.card a:hover{
+  color: red;
+}
+
+.bar{
+  position: absolute;
+  width: 100px;
+  height: 4px;
+  background-color: red;
+  bottom: 0;
+  left: -100px;
+  transition: .4s linear;
+}
+
+.card a:nth-child(1):hover ~ .bar{
+  left:0;
+}
+
+.card a:nth-child(2):hover ~ .bar{
+  left: 100px;
+}
+
+.card a:nth-child(3):hover ~ .bar{
+  left:200px;
+}
+
+.card a:nth-child(4):hover ~ .bar{
+  left:300px;
+}
+
+.card a:nth-child(5):hover ~ .bar{
+  left:400px;
+}
+
+.card a:nth-child(6):hover ~ .bar{
+  left:500px;
+}
+

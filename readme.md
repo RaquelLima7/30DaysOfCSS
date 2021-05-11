@@ -20,29 +20,19 @@ The 30 days of CSS challenge aims to improve learning about html and css (withou
 
 ## 🗒 Challenges 
 
-* [Day 01 - Animation using search box](#id01)
-* [Day 02 - Animated loader](#id02)
-* [Day 03 - Layered social media icon](#id03)
-* [Day 04 - Color changing checkbox](#id04)
-* [Day 05 - Floating text](#id05)
-* [Day 06 - Heart beating](#id06)
-* [Day 07 - Shiny button](#id07)
-* [Day 08 - Animated screen](#id08)
-* [Day 09 - Animation with hover images](#id09)
-* [Day 10 - Animated Checkbox Neon effect](#id10)
-* [Day 11 - Pulsing effect](#id11)
-* [Day 12 - Typewriter](#id12)
-* [Day 13 - Text color change when entering another div](#id13)
-* [Day 14 - Rotating card animation](#id14)
-* [Day 15 - Shiny text](#id15)
-* [Day 16 - Lightsaber](#id16)
-* [Day 17 - Animated menu](#id17)
-* [Day 18 - Smoky Text](#id18)
-* [Day 19 - Background that changes color](#id19)
-* [Day 20 - Fill effect when hovering](#id20)
-* [Day 21 - Animated text background with stars](#id21)
-* [Day 22 - Colorful animation](#id22)
-* [Day 23 - Animation with text](#id23)
+- [📝 About](#-about)
+- [🎯 Goal](#-goal)
+- [📣 Rules](#-rules)
+- [🗒 Challenges](#-challenges)
+- [Day 01 - Animation using search box <a name="id01"></a>](#day-01---animation-using-search-box-)
+- [Day 02 - Animated loader <a name="id02"></a>](#day-02---animated-loader-)
+- [Day 03 - Layered social media icon <a name="id03"></a>](#day-03---layered-social-media-icon-)
+- [Day 04 - Color changing checkbox <a name="id04"></a>](#day-04---color-changing-checkbox-)
+- [Day 05 - Floating text <a name="id05"></a>](#day-05---floating-text-)
+- [Day 06 - Heart beating <a name="id06"></a>](#day-06---heart-beating-)
+- [Day 07 - Shiny button <a name="id07"></a>](#day-07---shiny-button-)
+- [Day 08 - Animated screen <a name="id08"></a>](#day-08---animated-screen-)
+- [Day 09 - Animation with hover images <a name="id09"></a>](#day-09---animation-with-hover-images-)
 
 <br>
 
@@ -107,5 +97,13 @@ The 30 days of CSS challenge aims to improve learning about html and css (withou
 
 - [My Code](https://github.com/RaquelLima7/30DaysOfCSS/tree/main/Challenges/Day_08)
 - [Post LinkedIn](https://www.linkedin.com/posts/raquellima7_30daysofcss-30diasdecss-frontend-activity-6797502442012512256-rpiM) 
+
+<br>
+
+## Day 09 - Animation with hover images <a name="id09"></a>
+<img src="./Challenges/Day_09/day09.gif" alt="day09">
+
+- [My Code]()
+- [Post LinkedIn]() 
 
 <br>
