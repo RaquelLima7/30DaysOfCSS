@@ -104,7 +104,7 @@ The 30 days of CSS challenge aims to improve learning about html and css (withou
 ## Day 09 - Animation with hover images <a name="id09"></a>
 <img src="./Challenges/Day_09/day09.gif" alt="day09">
 
-- [My Code]()
-- [Post LinkedIn]() 
+- [My Code](https://github.com/RaquelLima7/30DaysOfCSS/tree/main/Challenges/Day_09)
+- [Post LinkedIn](https://www.linkedin.com/posts/raquellima7_30daysofcss-30diasdecss-frontend-activity-6797858467349622784-NtLV) 
 
 <br>
