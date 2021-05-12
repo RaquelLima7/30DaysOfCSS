@@ -117,3 +117,11 @@ The 30 days of CSS challenge aims to improve learning about html and css (withou
 - [Post LinkedIn](https://www.linkedin.com/posts/raquellima7_30daysofcss-30diasdecss-frontend-activity-6797858467349622784-NtLV) 
 
 <br>
+
+## Day 10 - Animated Checkbox Neon effect <a name="id10"></a>
+<img src="./Challenges/Day_10/day10.gif" alt="day10">
+
+- [My Code]()
+- [Post LinkedIn]() 
+
+<br>
