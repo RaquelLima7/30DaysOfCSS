@@ -129,7 +129,7 @@ The 30 days of CSS challenge aims to improve learning about html and css (withou
 ## Day 11 - Pulsing effect <a name="id11"></a>
 <img src="./Challenges/Day_11/day11.gif" alt="day11">
 
-- [My Code]()
-- [Post LinkedIn]() 
+- [My Code](https://github.com/RaquelLima7/30DaysOfCSS/tree/main/Challenges/Day_11)
+- [Post LinkedIn](https://www.linkedin.com/posts/raquellima7_30daysofcss-30diasdecss-frontend-activity-6798654996767420416-oF4-) 
 
 <br>
