@@ -1,0 +1,49 @@
+body {
+    background: #3bc9ceaf;
+}
+
+.center {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.fas {
+  font-size: 5em!important;
+}
+
+
+.pulse {
+    width: 120px;
+    height: 120px;
+    color: white;
+    border-radius: 50%;
+    background-color: #d37fb4;
+    line-height: 120px;
+    animation: animate 3s linear infinite;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+
+}
+
+@keyframes animate {
+    0% {
+        box-shadow: 0 0 0 0 #d351a3d3, 
+        0 0 0 0 #cc3394d3;
+    }
+    40% {
+        box-shadow: 0 0 0 20px #b95a96cc, 
+        0 0 0 0 #8d336aaf;
+    }
+    80% {
+        box-shadow: 0 0 0 30px #792359cc,
+        0 0 0 30px #702e589f;
+    }
+    100% {
+        box-shadow: 0 0 0 0 40px #7e1758cc, 
+        0 0 0 40px  #aa398186;
+    }
+}
+
