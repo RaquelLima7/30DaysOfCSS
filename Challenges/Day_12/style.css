@@ -1,0 +1,40 @@
+body {
+  min-height: 100vh;
+  background: #010402;
+  overflow: hidden;
+}
+
+.card {
+  padding-top: 25px;
+  padding-left: 35%;
+}
+
+p {
+  font-family: 'Special Elite', cursive;
+  font-size: 40px;
+  color:white;
+  white-space: nowrap;
+  overflow: hidden;
+  width: 100vw;
+  animation: type 4s steps(60, end);
+}
+
+p:nth-child(1) {
+  animation: type2 8s steps(60, end);
+}
+
+p:nth-child(2) {
+  animation: type2 16s steps(60, end);
+}
+
+
+@keyframes type{ 
+  from { width: 0; } 
+} 
+
+@keyframes type2{
+  0%{ width: 0; }
+  50%{ width: 0; }
+  100%{ width: 100; } 
+} 
+
