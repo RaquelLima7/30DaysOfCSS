@@ -133,3 +133,11 @@ The 30 days of CSS challenge aims to improve learning about html and css (withou
 - [Post LinkedIn](https://www.linkedin.com/posts/raquellima7_30daysofcss-30diasdecss-frontend-activity-6798654996767420416-oF4-) 
 
 <br>
+
+## Day 12 - Typewriter <a name="id12"></a>
+<img src="./Challenges/Day_12/day12.gif" alt="day12">
+
+- [My Code]()
+- [Post LinkedIn]() 
+
+<br>
