@@ -42,7 +42,14 @@ The 30 days of CSS challenge aims to improve learning about html and css (withou
 * [Day 21 - Animated text background with stars](#id21)
 * [Day 22 - Colorful animation](#id22)
 * [Day 23 - Animation with text](#id23)
-  
+* [Day 24 - Image Slideshow](#id24)
+* [Day 25 - Button with effect](#id25)
+* [Day 26 - Animated circles](#id26)
+* [Day 27 - Circles with effects](#id27)
+* [Day 28 - Page Background Animation](#id28)
+* [Day 29 - Effect with heart](#id29)
+* [Day 30 - Fireworks](#id30)
+
 
 <br>
 
