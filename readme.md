@@ -152,7 +152,7 @@ The 30 days of CSS challenge aims to improve learning about html and css (withou
 ## Day 13 - Text color change when entering another div <a name="id13"></a>
 <img src="./Challenges/Day_13/day13.gif" alt="day13">
 
-- [My Code]()
-- [Post LinkedIn]() 
+- [My Code](https://github.com/RaquelLima7/30DaysOfCSS/tree/main/Challenges/Day_13)
+- [Post LinkedIn](https://www.linkedin.com/posts/raquellima7_30daysofcss-30diasdecss-frontend-activity-6799319539822723072-XLkX) 
 
 <br>
