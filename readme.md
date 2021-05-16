@@ -160,7 +160,7 @@ The 30 days of CSS challenge aims to improve learning about html and css (withou
 ## Day 14 - Rotating card animation <a name="id14"></a>
 <img src="./Challenges/Day_14/day14.gif" alt="day14">
 
-- [My Code]()
-- [Post LinkedIn]() 
+- [My Code](https://github.com/RaquelLima7/30DaysOfCSS/tree/main/Challenges/Day_14)
+- [Post LinkedIn](https://www.linkedin.com/posts/raquellima7_30daysofcss-30diasdecss-frontend-activity-6799710257833672704-4EKR) 
 
 <br>
