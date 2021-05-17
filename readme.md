@@ -164,3 +164,11 @@ The 30 days of CSS challenge aims to improve learning about html and css (withou
 - [Post LinkedIn](https://www.linkedin.com/posts/raquellima7_30daysofcss-30diasdecss-frontend-activity-6799710257833672704-4EKR) 
 
 <br>
+
+## Day 15 - Shiny text <a name="id15"></a>
+<img src="./Challenges/Day_15/day15.gif" alt="day15">
+
+- [My Code]()
+- [Post LinkedIn]() 
+
+<br>
