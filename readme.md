@@ -172,3 +172,11 @@ The 30 days of CSS challenge aims to improve learning about html and css (withou
 - [Post LinkedIn](https://www.linkedin.com/posts/raquellima7_30daysofcss-30diasdecss-frontend-activity-6800014639368323072-zJiY) 
 
 <br>
+
+## Day 16 - Lightsaber <a name="id16"></a>
+<img src="./Challenges/Day_16/day16.gif" alt="day16">
+
+- [My Code]()
+- [Post LinkedIn]() 
+
+<br>
