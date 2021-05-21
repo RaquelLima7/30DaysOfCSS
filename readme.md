@@ -188,3 +188,11 @@ The 30 days of CSS challenge aims to improve learning about html and css (withou
 - [Post LinkedIn](https://www.linkedin.com/posts/raquellima7_30daysofcss-30diasdecss-frontend-activity-6800766044014198784-pyRI) 
 
 <br>
+
+## Day 18 - Smoky Text <a name="id18"></a>
+<img src="./Challenges/Day_18/day18.gif" alt="day18">
+
+- [My Code](https://github.com/RaquelLima7/30DaysOfCSS/tree/main/Challenges/Day_18)
+- [Post LinkedIn](https://www.linkedin.com/posts/raquellima7_30daysofcss-30diasdecss-frontend-activity-6801122745724805120-xpg5) 
+
+<br>
