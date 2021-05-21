@@ -200,7 +200,7 @@ The 30 days of CSS challenge aims to improve learning about html and css (withou
 ## Day 19 - Background that changes color <a name="id19"></a>
 <img src="./Challenges/Day_19/day19.gif" alt="day19">
 
-- [My Code]()
-- [Post LinkedIn]() 
+- [My Code](https://github.com/RaquelLima7/30DaysOfCSS/tree/main/Challenges/Day_19)
+- [Post LinkedIn](https://www.linkedin.com/posts/raquellima7_30daysofcss-30diasdecss-frontend-activity-6801491770749321216-RZOR) 
 
 <br>
