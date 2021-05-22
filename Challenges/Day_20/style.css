@@ -1,0 +1,29 @@
+body {
+  margin: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  background-color: #CEE3F5;
+}
+
+h1 {
+  font-size: 100px;
+  color: #F8B5B6;
+  position: relative;
+}
+
+h1::before {
+  content: "#ILoveCode";
+  position: absolute;
+  top: 0%;
+  left: 0%;
+  color:#F2637C;
+  width: 0%;
+  overflow: hidden;
+  transition: all 0.6s;
+}
+
+h1:hover::before {
+  width: 100%;
+}
