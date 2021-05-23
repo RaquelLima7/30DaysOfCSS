@@ -1,0 +1,24 @@
+body {
+	height: 100vh;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	background: linear-gradient(0, #120c56, #000000);
+}
+
+h1 {
+	font-size: 150px;
+	text-align: center;
+	background: url(image.jpg);
+	-webkit-background-clip: text;
+	color: transparent;
+	animation: text-background 20s linear infinite;
+}
+
+@keyframes text-background {
+
+	from { background-position: 0 0 }
+
+	to { background-position: 100% 100% }
+
+} 
