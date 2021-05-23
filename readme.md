@@ -212,3 +212,11 @@ The 30 days of CSS challenge aims to improve learning about html and css (withou
 - [Post LinkedIn](https://www.linkedin.com/posts/raquellima7_30daysofcss-30diasdecss-frontend-activity-6801848473181327360-9M2d) 
 
 <br>
+
+## Day 21 - Animated text background with stars <a name="id21"></a>
+<img src="./Challenges/Day_21/day21.gif" alt="day21">
+
+- [My Code]()
+- [Post LinkedIn]() 
+
+<br>
