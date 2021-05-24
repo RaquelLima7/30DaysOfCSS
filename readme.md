@@ -224,7 +224,7 @@ The 30 days of CSS challenge aims to improve learning about html and css (withou
 ## Day 22 - Colorful animation <a name="id22"></a>
 <img src="./Challenges/Day_22/day22.gif" alt="day22">
 
-- [My Code]()
-- [Post LinkedIn]() 
+- [My Code](https://github.com/RaquelLima7/30DaysOfCSS/tree/main/Challenges/Day_22)
+- [Post LinkedIn](https://www.linkedin.com/posts/raquellima7_30daysofcss-30diasdecss-frontend-activity-6802569834723889152-ttYb) 
 
 <br>
