@@ -1,0 +1,36 @@
+body{
+  background: #F7E2DC;
+}
+
+.container{
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%,-50%);
+  width: 100%;
+}
+
+.text{
+  text-align: center;
+  color: #412050;
+  font-size: 100px;
+  font-weight: bold;
+  position: relative;
+  animation: text 3s 1;
+}
+
+
+@keyframes text{
+  0%{
+    color: #89E932;
+    margin-bottom: -40px;
+  }
+  30%{
+    letter-spacing: 25px;
+    margin-bottom: -40px;
+  }
+  85%{
+    letter-spacing: 8px;
+    margin-bottom: -40px;
+  }
+}
