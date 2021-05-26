@@ -1,0 +1,37 @@
+body{
+  margin: 0;
+  padding: 0;
+  background-color:#F398BE;
+  display: grid;
+  place-items: center;
+  min-height: 100vh;
+}
+
+.wrapper{
+  height: 400px;
+  width: 400px;
+  background-image: url(https://image.freepik.com/vetores-gratis/coracao-de-dedo-gradiente_23-2148639379.jpg);
+  background-size: cover;
+  background-position: center center;
+  animation: animate 15s ease 0s infinite;
+}
+
+.wrapper img{
+  width: 400px;
+  height: 400px;
+}
+
+@keyframes animate{
+  25%{
+    background-image: url(https://img.freepik.com/vetores-gratis/mao-desenhada-ilustracao-de-coracao-de-dedo_23-2148625445.jpg?size=338&ext=jpg)
+  }
+  50%{
+    background-image: url(https://image.freepik.com/vetores-gratis/conceito-de-coracao-dedo-gradiente_23-2148624158.jpg)
+  }
+  75%{
+    background-image: url(https://image.freepik.com/vetores-gratis/coracao-de-mao-desenhada-dedo_23-2148620370.jpg)
+  }
+  100%{
+    background-image: url(https://image.freepik.com/vetores-gratis/coracao-de-dedo-ilustrado-gradiente_23-2148617080.jpg)
+  }
+}
