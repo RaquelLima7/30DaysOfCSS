@@ -228,3 +228,11 @@ The 30 days of CSS challenge aims to improve learning about html and css (withou
 - [Post LinkedIn](https://www.linkedin.com/posts/raquellima7_30daysofcss-30diasdecss-frontend-activity-6802569834723889152-ttYb) 
 
 <br>
+
+## Day 23 - Animation with text <a name="id23"></a>
+<img src="./Challenges/Day_23/day23.gif" alt="day23">
+
+- [My Code](https://github.com/RaquelLima7/30DaysOfCSS/tree/main/Challenges/Day_23)
+- [Post LinkedIn](https://www.linkedin.com/posts/raquellima7_30daysofcss-30diasdecss-frontend-activity-6802907126567108608-dUHR) 
+
+<br>
