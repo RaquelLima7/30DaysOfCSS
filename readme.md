@@ -248,7 +248,7 @@ The 30 days of CSS challenge aims to improve learning about html and css (withou
  ## Day 25 - Button with effect <a name="id25"></a>
 <img src="./Challenges/Day_25/day25.gif" alt="day25">
 
-- [My Code]()
-- [Post LinkedIn]() 
+- [My Code](https://github.com/RaquelLima7/30DaysOfCSS/tree/main/Challenges/Day_25)
+- [Post LinkedIn](https://www.linkedin.com/posts/raquellima7_30daysofcss-30diasdecss-frontend-activity-6803645822761259008-Z1Mh) 
 
 <br>
