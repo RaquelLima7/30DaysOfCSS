@@ -1,0 +1,40 @@
+body {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #FDE9E3;
+}
+a {
+	text-decoration: none;
+	color: #6F345F;
+	font-family: sans-serif;
+	font-size: 30px;
+	border: 3px solid #6F345F;
+  background-color: #F49B99;
+  border-radius: 15px;
+	padding: 30px 60px;
+	position: relative;
+	transition: all 1s;
+	overflow: hidden;
+}
+
+a:before {
+	content: 'By Raquel Limâ ❤️';
+	color:#FBAD60;
+	background-color:#F8DEBE;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	position: absolute;
+	left: 0;
+	top: 0;
+	height: 100%;
+	width: 100%;
+	transform: translateY(-100%);
+	transition:all .5s;
+}
+
+a:hover:before {
+	transform: translateY(0);
+}
