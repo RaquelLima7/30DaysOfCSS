@@ -256,7 +256,7 @@ The 30 days of CSS challenge aims to improve learning about html and css (withou
   ## Day 26 - Animated circles <a name="id26"></a>
 <img src="./Challenges/Day_26/day26.gif" alt="day26">
 
-- [My Code]()
-- [Post LinkedIn]() 
+- [My Code](https://github.com/RaquelLima7/30DaysOfCSS/tree/main/Challenges/Day_26)
+- [Post LinkedIn](https://www.linkedin.com/posts/raquellima7_30daysofcss-30diasdecss-frontend-activity-6804026950273830912-mlP4) 
 
 <br>
