@@ -245,7 +245,7 @@ The 30 days of CSS challenge aims to improve learning about html and css (withou
 
 <br>
   
- ## Day 25 - Button with effect <a name="id25"></a>
+## Day 25 - Button with effect <a name="id25"></a>
 <img src="./Challenges/Day_25/day25.gif" alt="day25">
 
 - [My Code](https://github.com/RaquelLima7/30DaysOfCSS/tree/main/Challenges/Day_25)
@@ -253,10 +253,18 @@ The 30 days of CSS challenge aims to improve learning about html and css (withou
 
 <br>
   
-  ## Day 26 - Animated circles <a name="id26"></a>
+ ## Day 26 - Animated circles <a name="id26"></a>
 <img src="./Challenges/Day_26/day26.gif" alt="day26">
 
 - [My Code](https://github.com/RaquelLima7/30DaysOfCSS/tree/main/Challenges/Day_26)
 - [Post LinkedIn](https://www.linkedin.com/posts/raquellima7_30daysofcss-30diasdecss-frontend-activity-6804026950273830912-mlP4) 
+
+<br>
+  
+ ## Day 27 - Circles with effects <a name="id27"></a>
+<img src="./Challenges/Day_27/day27.gif" alt="day27">
+
+- [My Code]()
+- [Post LinkedIn]() 
 
 <br>
