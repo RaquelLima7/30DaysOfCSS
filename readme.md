@@ -264,7 +264,7 @@ The 30 days of CSS challenge aims to improve learning about html and css (withou
  ## Day 27 - Circles with effects <a name="id27"></a>
 <img src="./Challenges/Day_27/day27.gif" alt="day27">
 
-- [My Code]()
-- [Post LinkedIn]() 
+- [My Code](https://github.com/RaquelLima7/30DaysOfCSS/tree/main/Challenges/Day_27)
+- [Post LinkedIn](https://www.linkedin.com/posts/raquellima7_30daysofcss-30diasdecss-frontend-activity-6804386175462240256-ModF) 
 
 <br>
