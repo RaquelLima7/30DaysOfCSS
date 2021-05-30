@@ -272,7 +272,7 @@ The 30 days of CSS challenge aims to improve learning about html and css (withou
 ## Day 28 - Page Background Animation <a name="id28"></a>
 <img src="./Challenges/Day_28/day28.gif" alt="day28">
 
-- [My Code]()
-- [Post LinkedIn]() 
+- [My Code](https://github.com/RaquelLima7/30DaysOfCSS/tree/main/Challenges/Day_28)
+- [Post LinkedIn](https://www.linkedin.com/posts/raquellima7_30daysofcss-30diasdecss-frontend-activity-6804862390841212928-dzgu) 
 
 <br>
