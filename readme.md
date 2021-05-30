@@ -261,10 +261,18 @@ The 30 days of CSS challenge aims to improve learning about html and css (withou
 
 <br>
   
- ## Day 27 - Circles with effects <a name="id27"></a>
+## Day 27 - Circles with effects <a name="id27"></a>
 <img src="./Challenges/Day_27/day27.gif" alt="day27">
 
 - [My Code](https://github.com/RaquelLima7/30DaysOfCSS/tree/main/Challenges/Day_27)
 - [Post LinkedIn](https://www.linkedin.com/posts/raquellima7_30daysofcss-30diasdecss-frontend-activity-6804386175462240256-ModF) 
+
+<br>
+  
+## Day 28 - Page Background Animation <a name="id28"></a>
+<img src="./Challenges/Day_28/day28.gif" alt="day28">
+
+- [My Code]()
+- [Post LinkedIn]() 
 
 <br>
