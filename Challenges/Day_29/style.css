@@ -1,0 +1,41 @@
+body {
+  min-height: 100vh;
+  background-color:#EFC1CE;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+.wrapper {
+  position: relative;
+}
+
+.wrapper h2 {
+  position: absolute;
+  transform: translate(-80%, -80%);
+  font-size: 150px;
+  font-weight: bold;
+}
+
+.wrapper h2:nth-child(1) {
+  color: transparent;
+  -webkit-text-stroke: 2px white;
+}
+
+.wrapper h2:nth-child(2) {
+  color:#E6538C;
+  animation: ani 4s ease-in-out infinite;
+}
+
+@keyframes ani {
+  0%, 100% {
+      clip-path: polygon(0% 45%, 11% 42%, 26% 44%, 39% 50%, 49% 56%, 58% 59%, 71% 60%, 84% 59%, 94% 56%, 100% 55%, 100% 99%, 0% 100%);
+  }
+
+  50% {
+      clip-path: polygon(0 49%, 6% 53%, 16% 57%, 31% 59%, 44% 59%, 53% 56%, 63% 48%, 74% 42%, 89% 38%, 100% 38%, 100% 99%, 0% 100%);
+  }
+}
