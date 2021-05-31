@@ -281,7 +281,7 @@ The 30 days of CSS challenge aims to improve learning about html and css (withou
 ## Day 29 - Effect with heart <a name="id29"></a>
 <img src="./Challenges/Day_29/day29.gif" alt="day29">
 
-- [My Code]()
-- [Post LinkedIn]() 
+- [My Code](https://github.com/RaquelLima7/30DaysOfCSS/tree/main/Challenges/Day_29)
+- [Post LinkedIn](https://www.linkedin.com/posts/raquellima7_30daysofcss-30diasdecss-frontend-activity-6805099757627871232-mk8h) 
 
 <br>
