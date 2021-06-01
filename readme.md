@@ -289,7 +289,7 @@ The 30 days of CSS challenge aims to improve learning about html and css (withou
 ## Day 30 - Fireworks <a name="id30"></a>
 <img src="./Challenges/Day_30/day30.gif" alt="day30">
 
-- [My Code]()
-- [Post LinkedIn]() 
+- [My Code](https://github.com/RaquelLima7/30DaysOfCSS/tree/main/Challenges/Day_30)
+- [Post LinkedIn](https://www.linkedin.com/posts/raquellima7_30daysofcss-30diasdecss-frontend-activity-6805475043443838976-c5MX) 
 
 <br>
